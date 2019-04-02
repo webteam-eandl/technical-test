@@ -1,0 +1,8 @@
+{
+    "name": "elico/technical-test",
+    "description": "Sample Package",
+    "type": "project",
+    "license": "proprietary",
+    "minimum-stability": "stable",
+    "require": {}
+}
