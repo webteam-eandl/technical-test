@@ -1,0 +1,17 @@
+{
+  "name": "elico/technical-test",
+  "description": "Sample Package",
+  "type": "project",
+  "license": "proprietary",
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "ApiClient\\": [
+        "src"
+      ]
+    }
+  },
+  "require": {
+    "guzzlehttp/guzzle": "^6.3"
+  }
+}
